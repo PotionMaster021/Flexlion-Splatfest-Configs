@@ -4,4 +4,4 @@ Credit goes to: @zera for official configs, @nvnprogram for creating "Flexion Mo
 https://gamebanana.com/wips/70362
 
 discord.gg/splatfest for hosting the custom splatfest themes included in upload.
-
+https://discord.gg/WyRTsaJD
