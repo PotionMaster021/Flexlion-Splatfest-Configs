@@ -1,4 +1,4 @@
-Splatoon 3 Splatfest theme Configs (Official and Custom) made using "Flexion Mod Menu"
+Splatoon 3 splatfest theme configs (Official and Custom) made using "Flexion Mod Menu"
 
 Drag and Drop "colorchanger" folder to "SD/flexion3/config/colorchanger"
 (Merge Contents if prompted)
